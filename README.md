@@ -12,9 +12,10 @@ The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
 
-| Dataset name  | Data URL | Paper URL | Github URL | In pyTreeDb | n trees | n species |
+| Dataset name  | Data URL | Paper URL | Github URL | In pyTreeDb | n trees | n species | data type |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | [link github repo](https://github.com/stefp/treeSpecies_classify_LS) | no | ? | ? |
-| Seidl et al. 2021  | [link data]([https://www.google.com](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM)) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ... | no | ? | 8 |
-| Weiser et al. 2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | [link github](https://github.com/3dgeo-heidelberg/pytreedb) | yes | 1491 | 22 |
+| ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | [link github repo](https://github.com/stefp/treeSpecies_classify_LS) | no | ? | ? | ULS |
+| Seidl et al. 2021  | [link data]([https://www.google.com](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM)) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ... | no | ? | 8 | TLS |
+| Weiser et al. 2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | [link github](https://github.com/3dgeo-heidelberg/pytreedb) | yes | 1491 | 22 | ULS/TLS |
+| Brede et al. 2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | [link github]() | no | ? | need to ask | ULS/TLS |
 
