@@ -5,12 +5,13 @@
 Repository for the work related to the tree species classification using proximally sensed laser scanning data (TLS, MLS, ULS). This work is part of the COST action 3DForEcoTech (https://3dforecotech.eu/)
 
 # What is the study case about
-In the following google doc you can find the description of the study case:
+In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find the description of the study case.
 
 # Available data sources
 The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
+WildForest3D
 
 | Dataset name  | Data URL | Paper URL | Github URL | In pyTreeDb | n trees | n species | data type |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -18,9 +19,16 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Seidl et al. 2021  | [link data]([https://www.google.com](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM)) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ... | no | ? | 8 | TLS |
 | Weiser et al. 2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | [link github](https://github.com/3dgeo-heidelberg/pytreedb) | yes | 1491 | 22 | ULS/TLS |
 | Brede et al. 2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | [link github]() | no | ? | need to ask | ULS/TLS |
-| Cedric Vega | no data link | no paper | no github | it will be | ? | ? | TLS |
-| Martin Mokros | no data link | no paper | no github | it will be | ? | ? | ? |
-| Kim Calders | no data link | no paper | no github | it will be | ? | ? | ? |
+| WildForest3D | [link data](https://github.com/ekalinicheva/multi_layer_vegetation) | [link paper](https://arxiv.org/abs/2204.11620) | [link github](https://github.com/ekalinicheva/multi_layer_vegetation) | no | ? | ? | ULS |
+
+| Cedric Vega | no data link | no paper | no github | no | ? | ? | TLS |
+| Martin Mokros | no data link | no paper | no github | no | ? | ? | ? |
+| Kim Calders | no data link | no paper | no github | no | ? | ? | ? |
+| Julian Frey |  no data link | no paper | no github |  no | ? | ? | TLS |
+| Julian Frey |  no data link | no paper | no github |  no | ? | ? | TLS |
+| Harry Owen | no data link | no paper | no github |  no | ? | ? | TLS |
+
+
 
 
 
