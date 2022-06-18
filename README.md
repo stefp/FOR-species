@@ -11,6 +11,9 @@ In the following google doc you can find the description of the study case:
 The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
-'
 
+| Dataset name  | Data URL | Paper URL | Github URL |
+| ------------- | ------------- |
+| ForInstance  | https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx | https://www.mdpi.com/2072-4292/7/8/9632 | https://github.com/stefp/treeSpecies_classify_LS |
+| Seidl et al. 2021  | [link data]([https://www.google.com](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM)) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ... |
 
