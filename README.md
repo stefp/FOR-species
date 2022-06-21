@@ -32,9 +32,9 @@ WildForest3D
 - https://datadryad.org/stash/dataset/doi:10.5061/dryad.02dq2
 - https://bitbucket.org/tree_research/wytham_woods_3d_model/src/master/
 
-
-
-
+### Useful litterature
+- https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full
+- 
 
 
 
