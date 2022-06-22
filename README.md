@@ -7,7 +7,7 @@ Repository for the work related to the tree species classification using proxima
 # What is the study case about
 In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find the description of the study case.
 
-# Available data sources
+# Available data sources (for now 5307 trees)
 The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
