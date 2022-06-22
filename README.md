@@ -26,7 +26,6 @@ WildForest3D
 | Martin Mokros | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
 | Kim Calders | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
 | Julian Frey |  no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
-| Julian Frey |  no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 
