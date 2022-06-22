@@ -20,6 +20,7 @@ WildForest3D
 | Weiser_2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | [link github](https://github.com/3dgeo-heidelberg/pytreedb) | yes | 1491 | 22 | ALS/ULS(leaf-on and off)/TLS | ... |
 | Brede_2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | [link github]() | no | ? | need to ask | ULS/TLS | ... |
 | VanDenBerge_2021 | [link data](https://github.com/ekalinicheva/multi_layer_vegetation)  | [link paper](https://link.springer.com/article/10.1007/s12155-021-10250-y) | no github | yes | 69 | 3 | TLS | RIEGL VZ-1000 |
+| LAUTx | [link data](https://zenodo.org/record/6560112#.YrNjx3ZBxaQ)  | [link paper](https://zenodo.org/record/6560112/files/APPENDIX_TABLES.pdf?download=1) | no github | yes | ? | ? | MLS | ZEB Horizon |
 | Cedric Vega | no data link | no paper | no github | no | ? | ? | TLS | ... |
 | Martin Mokros | no data link | no paper | no github | no | ? | ? | ? | ... |
 | Kim Calders | no data link | no paper | no github | no | ? | ? | ? | ... |
