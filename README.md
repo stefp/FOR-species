@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 
 WildForest3D
 
-| Dataset name  | Data URL | Paper URL | Github URL | In pyTreeDb | n trees | n species | data type | sensor |
+| Dataset name  | Data URL | Paper URL | Github URL | Downloaded | n trees | n species | data type | sensor |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | [link github repo](https://github.com/stefp/treeSpecies_classify_LS) | no | ? | ? | ULS | VUX/miniVUX series |
 | Seidl et al. 2021  | [link data](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ... | no | 690 | 8 | TLS |  Faro Focus 3D 120 and Zoller and Fröhlich Imager 5006 |
