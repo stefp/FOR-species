@@ -29,7 +29,8 @@ WildForest3D
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 For now this is the frequency of the species in the available datasets:
-![frequency_sp](https://user-images.githubusercontent.com/5663984/175149146-7d527e12-dcfc-472d-9a6b-e069a73d127e.png)
+![freq](https://user-images.githubusercontent.com/5663984/175152733-e8b9a7a4-4e55-4c23-a405-5712a1158cc9.png)
+
 
 
 ### OPther links to check for data availability:
