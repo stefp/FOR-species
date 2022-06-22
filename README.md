@@ -11,7 +11,6 @@ In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMq
 The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
-WildForest3D
 
 | Dataset name  | Data URL | Paper URL | Downloaded | Prepared | n trees | n species | data type | sensor |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
