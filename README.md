@@ -34,6 +34,7 @@ For now this is the frequency of the species in the available datasets:
 
 
 ### OPther links to check for data availability:
+- this may be a resource but it is only for Australia: https://portal.tern.org.au/nsw-forest-monitoring-lidar-pilot/23739 and  https://data.tern.org.au/nsw/gblidar/NSW_Natural_Resources_Commission/NSW_Natural_Resources_Commission/
 - https://datadryad.org/stash/dataset/doi:10.5061/dryad.02dq2
 - https://bitbucket.org/tree_research/wytham_woods_3d_model/src/master/
 
