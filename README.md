@@ -6,6 +6,11 @@ Repository for the work related to the tree species classification using proxima
 
 # What is the study case about
 In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find the description of the study case.
+Overall we should develop:
+ - a general model (all species and sensors)
+ - a general model but using only a cilinder with buffer (fixed or varying?) around the detected DBH
+ - a model specific to ecological-climatocgical conditions (e.g. boreal, temperate)
+ - a model specific to the platform (TLS and ULS)
 
 # Available data sources (for now 5307 trees)
 The following google sheet describes the available datasets:
