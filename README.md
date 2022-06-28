@@ -34,7 +34,10 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 For now this is the frequency of the species in the available datasets:
-![freq](https://user-images.githubusercontent.com/5663984/175152733-e8b9a7a4-4e55-4c23-a405-5712a1158cc9.png)
+![histogram](https://user-images.githubusercontent.com/5663984/176136250-9f4a8a45-e181-4a51-807c-b8497284cb57.png)
+Based on that what we need is:
+- Birch
+- 
 
 
 
