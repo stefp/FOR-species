@@ -47,5 +47,7 @@ For now this is the frequency of the species in the available datasets:
 - https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full
 - 
 
+### Example model for species is boreal
+![image](https://user-images.githubusercontent.com/5663984/176133681-c5bea09e-9b33-4a0a-a4dc-41149dd53a2d.png)
 
 
