@@ -12,14 +12,14 @@ Overall we should develop:
  - a model specific to ecological-climatocgical conditions (e.g. boreal, temperate)
  - a model specific to the platform (TLS and ULS)
 
-# Available data sources (for now 5626 trees)
+# Available data sources (for now 6040 trees)
 The following google sheet describes the available datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
 
 | Dataset name  | Data URL | Paper URL | Downloaded | Prepared | n trees | n species | data type | sensor |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| NIBIO Geoslam  | [link data](...) | [link paper](...) | ❌ | ❌ | ??? | 3 | MLS | Geoslam Horizon |
+| NIBIO Geoslam  | [link data](...) | [link paper](...) | ❌ | ❌ | 414 | 3 | MLS | Geoslam Horizon |
 | ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | ✔️ | ✔️ | 885 | 5 | ULS | VUX/miniVUX series |
 | Seidl_2021  | [link data](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ✔️ | ✔️ | 690 | 8 | TLS |  Faro Focus 3D 120 and Zoller and Fröhlich Imager 5006 |
 | Weiser_2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | ✔️ | ✔️ | 1491 | 22 | ALS/ULS(leaf-on and off)/TLS | miniVUX1 ... |
