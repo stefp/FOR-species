@@ -13,7 +13,7 @@ Overall we should develop:
  - a model specific to the platform (TLS and ULS)
 
 # Available data sources (for now 16K trees)
-The following google sheet describes the available datasets:
+The following google sheet describes the ava8lable datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
 
@@ -35,7 +35,7 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 For now this is the frequency of the species in the available datasets:
-![histogram](https://user-images.githubusercontent.com/5663984/176603213-d68d9110-f2c0-47f0-84aa-db299379b3c8.png)
+![frequency_Species](https://user-images.githubusercontent.com/5663984/188506826-0af7b51d-b6b5-469e-84a7-f4db720df465.png)
 
 Based on that what we need is:
 - Birch
