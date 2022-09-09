@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 
 | Dataset name  | Data URL | Paper URL | Downloaded | Prepared | n trees | n species | Data type | Sensor | Quality annotation |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| NIBIO Geoslam  | [link data](...) | [link paper](...) | ❌ | ❌ | 833 | 3 | MLS | Geoslam Horizon | top |
+| NIBIO Geoslam  | [link data](...) | [link paper](...) | ✔️ | ✔️ | 833 | 3 | MLS | Geoslam Horizon | top |
 | ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | ✔️ | ✔️ | 885 | 5 | ULS | VUX/miniVUX series | top |
 | Seidl_2021  | [link data](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ✔️ | ✔️ | 690 | 8 | TLS |  Faro Focus 3D 120 and Zoller and Fröhlich Imager 5006 | top |
 | Weiser_2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | ✔️ | ✔️ | 1491 | 22 | ALS/ULS(leaf-on and off)/TLS | miniVUX1 ... | medium |
@@ -35,7 +35,8 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 For now this is the frequency of the species in the available datasets:
-![frequency_Species](https://user-images.githubusercontent.com/5663984/188506826-0af7b51d-b6b5-469e-84a7-f4db720df465.png)
+![Rplot](https://user-images.githubusercontent.com/5663984/189360819-06decd01-d663-42c8-86b5-40e5e5f0795e.png)
+
 
 Based on that what we need is:
 - Birch
