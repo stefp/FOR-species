@@ -37,12 +37,10 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 For now this is the frequency of the species in the available datasets:
 ![Rplot](https://user-images.githubusercontent.com/5663984/189360819-06decd01-d663-42c8-86b5-40e5e5f0795e.png)
 
-
-Based on that what we need is:
-- Birch
-- 
-
-
+### Need to balance the dataset:
+- The objective is to reduce the representativeness of the classes with most trees while still ensuring a large-enough sample of trees for modelling. To do so we should select a number of trees to sample from each tree species e.g. 100 trees)
+- Here we should then apply a stratified random sampling where the strata are the single acquisitions represented by the main folders (i.e. combination of sensor and acquisition platform).
+- When sampling within each strata we should account for tree size (i.e. sub-strata) to ensure that we cover as much possible the tree size range.
 
 ### OPther links to check for data availability:
 - this may be a resource but it is only for Australia: https://portal.tern.org.au/nsw-forest-monitoring-lidar-pilot/23739 and  https://data.tern.org.au/nsw/gblidar/NSW_Natural_Resources_Commission/NSW_Natural_Resources_Commission/
