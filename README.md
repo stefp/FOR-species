@@ -42,13 +42,17 @@ For now this is the frequency of the species in the available datasets:
 - Here we should then apply a stratified random sampling where the strata are the single acquisitions represented by the main folders (i.e. combination of sensor and acquisition platform).
 - When sampling within each strata we should account for tree size (i.e. sub-strata) to ensure that we cover as much possible the tree size range.
 
-### OPther links to check for data availability:
-- this may be a resource but it is only for Australia: https://portal.tern.org.au/nsw-forest-monitoring-lidar-pilot/23739 and  https://data.tern.org.au/nsw/gblidar/NSW_Natural_Resources_Commission/NSW_Natural_Resources_Commission/
-- https://datadryad.org/stash/dataset/doi:10.5061/dryad.02dq2
-- https://bitbucket.org/tree_research/wytham_woods_3d_model/src/master/
+### Train, validation, test split:
+- Based on the previous stratified sample we should select 70% of the data for training, 15% for validation, and 15% for test
+- The split should be done by acquisition (is it possible based on the available data? we only have a few projects and it could be detrimental to do this), meaning that we should not have in the training data trees from the same areas as the validation data.
+- 
+
 
 ### Useful litterature
 - https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full
+- https://www.mdpi.com/2072-4292/14/15/3809
+- https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10332/103320O/Lidar-based-individual-tree-species-classification-using-convolutional-neural-network/10.1117/12.2270123.short?SSO=1
+- https://www.mdpi.com/2072-4292/13/23/4750
 - 
 
 ### Example model for species is boreal
