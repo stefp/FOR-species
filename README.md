@@ -53,7 +53,8 @@ By genus
 - The split should be done by acquisition (is it possible based on the available data? we only have a few projects and it could be detrimental to do this), meaning that we should not have in the training data trees from the same areas as the validation data.
 
 #### Example of balanced sample (max 500 trees per species) split into train (70%), validation (15%) and test (15%)
-![Rplot03](https://user-images.githubusercontent.com/5663984/189549323-793fd384-e692-4fed-a767-02bf293ad8dc.png)
+![Rplot04](https://user-images.githubusercontent.com/5663984/189549827-a209d21b-bdbe-40cb-a3c9-0495fae7c8d8.png)
+
 
 
 ### Models to test
