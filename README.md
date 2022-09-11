@@ -34,8 +34,13 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Kim Calders | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
-For now this is the number of trees by tree species and data type in the available datasets:
-![Rplot01](https://user-images.githubusercontent.com/5663984/189543134-354ee978-e725-4e25-aa50-81f8e2539afc.png)
+For now this is the number of trees by tree species&genus and data type in the available datasets:
+
+By species
+![Rplot02](https://user-images.githubusercontent.com/5663984/189543968-054790df-395d-4f32-97c9-aaf56c6e1edd.png)
+
+By genus
+![genus](https://user-images.githubusercontent.com/5663984/189543978-34cf634f-ecc5-4ceb-b4b3-6f1aa4bb2c4b.png)
 
 
 ### Need to balance the dataset:
