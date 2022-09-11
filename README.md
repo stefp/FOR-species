@@ -51,8 +51,17 @@ By genus
 ### Train, validation, test split:
 - Based on the previous stratified sample we should select 70% of the data for training, 15% for validation, and 15% for test
 - The split should be done by acquisition (is it possible based on the available data? we only have a few projects and it could be detrimental to do this), meaning that we should not have in the training data trees from the same areas as the validation data.
+
+
+### Models to test
 - 
 
+### Train separate models for different biogeographical regions
+- Boreal: Picea abies, Pinus sylvestris, Betula pendula 
+- Boreal+: Picea abies, Pinus sylvestris, Betula pendula, Fagus sylvatica, Quercus sp., Acer sp., Tilia sp., Fraxinus exclesior
+- Temperate: Picea abies, Pinus sylvestris, Betula pendula, Fagus sylvatica, Quercus sp., Acer sp., Carpinus betulus, Pseudotsuga mentziesii, Tilia cordata, Ulmus, Prunus, Crategous, Larix)
+- Australia: Eucaliptus sp.
+ 
 
 ### Useful litterature
 - https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full
