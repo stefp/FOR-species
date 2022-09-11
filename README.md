@@ -42,15 +42,18 @@ By species
 By genus
 ![genus](https://user-images.githubusercontent.com/5663984/189543978-34cf634f-ecc5-4ceb-b4b3-6f1aa4bb2c4b.png)
 
-
-### Need to balance the dataset:
+### Prepare data
+#### Need to balance the dataset:
 - The objective is to reduce the representativeness of the classes with most trees while still ensuring a large-enough sample of trees for modelling. To do so we should select a number of trees to sample from each tree species e.g. 100 trees)
 - Here we should then apply a stratified random sampling where the strata are the single acquisitions represented by the main folders (i.e. combination of sensor and acquisition platform).
 - When sampling within each strata we should account for tree size (i.e. sub-strata) to ensure that we cover as much possible the tree size range.
 
-### Train, validation, test split:
+#### Train, validation, test split:
 - Based on the previous stratified sample we should select 70% of the data for training, 15% for validation, and 15% for test
 - The split should be done by acquisition (is it possible based on the available data? we only have a few projects and it could be detrimental to do this), meaning that we should not have in the training data trees from the same areas as the validation data.
+
+#### Example of balanced sample (max 500 trees per species) split into train (70%), validation (15%) and test (15%)
+![Rplot03](https://user-images.githubusercontent.com/5663984/189549323-793fd384-e692-4fed-a767-02bf293ad8dc.png)
 
 
 ### Models to test
