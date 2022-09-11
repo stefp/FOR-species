@@ -54,7 +54,9 @@ By genus
 
 
 ### Models to test
-- 
+- TensorFlow Hub - resnet50 (https://github.com/stefp/treeSpecies_classify_LS/blob/main/scripts/Tree_SP_transfer_learning_with_hub.ipynb)
+- yolov5 v 6.2 classification (https://github.com/ultralytics/yolov5/releases)
+
 
 ### Train separate models for different biogeographical regions
 - Boreal: Picea abies, Pinus sylvestris, Betula pendula 
