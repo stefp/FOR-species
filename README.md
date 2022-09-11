@@ -34,8 +34,9 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Kim Calders | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
 | Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
-For now this is the frequency of the species in the available datasets:
-![Rplot](https://user-images.githubusercontent.com/5663984/189360819-06decd01-d663-42c8-86b5-40e5e5f0795e.png)
+For now this is the number of trees by tree species and data type in the available datasets:
+![Rplot01](https://user-images.githubusercontent.com/5663984/189543134-354ee978-e725-4e25-aa50-81f8e2539afc.png)
+
 
 ### Need to balance the dataset:
 - The objective is to reduce the representativeness of the classes with most trees while still ensuring a large-enough sample of trees for modelling. To do so we should select a number of trees to sample from each tree species e.g. 100 trees)
