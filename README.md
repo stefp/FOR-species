@@ -43,7 +43,7 @@ By genus
 ![genus](https://user-images.githubusercontent.com/5663984/189543978-34cf634f-ecc5-4ceb-b4b3-6f1aa4bb2c4b.png)
 
 ### Prepare data
-#### Need to balance the dataset:
+#### Need to balance the dataset (undersampling):
 - The objective is to reduce the representativeness of the classes with most trees while still ensuring a large-enough sample of trees for modelling. To do so we should select a number of trees to sample from each tree species e.g. 100 trees)
 - Here we should then apply a stratified random sampling where the strata are the single acquisitions represented by the main folders (i.e. combination of sensor and acquisition platform).
 - When sampling within each strata we should account for tree size (i.e. sub-strata) to ensure that we cover as much possible the tree size range.
