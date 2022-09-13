@@ -28,6 +28,7 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Saarinen_2021 | [link stems](https://zenodo.org/record/3701271#.YrQL8mBBxaS) [link crowns](https://zenodo.org/record/5783404#.YrQL_GBBxaS)  | [link paper](https://zenodo.org/record/5783404/files/Saarinen%20et%20al_Data%20descriptor.pdf?download=1) | ✔️ | ✔️ | 1976 | 1 | TLS | Trimble TX5 3D | poor |
 | Julian Frey |  [link data](S:\Prosjekter\52106_SFI_SmartForest\annotated_datasets\speciesClassification_proximalLS\Frey_2022) | no paper | ✔️ |  ✔️ | 745 | 6 | TLS | ... | poor |
 | Bluecat | [link stems](https://zenodo.org/record/4624277#.YrYt3HZByUk)  | [link paper](https://www.mdpi.com/2072-4292/13/12/2297) | ✔️ | ✔️ | 10000 | ? | TLS | ... | top |
+| luck_levick |  | | ✔️ | ✔️ | 447 | 11 | TLS | Leica BLK360 | top |
 | Brede_2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | ❌ | ❌ | ? | need to ask | ULS/TLS | ... |
 | Cedric Vega | no data link | no paper | ❌ | ❌ | ? | ? | TLS | ... |
 | Martin Mokros | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
