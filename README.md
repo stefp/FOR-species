@@ -37,10 +37,12 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 For now this is the number of trees by tree species&genus and data type in the available datasets:
 
 By species
-![Rplot02](https://user-images.githubusercontent.com/5663984/189543968-054790df-395d-4f32-97c9-aaf56c6e1edd.png)
+![Rplot05](https://user-images.githubusercontent.com/5663984/189981632-ae5a049b-db96-4fb9-8786-eaa8d8ea277d.png)
+
 
 By genus
-![genus](https://user-images.githubusercontent.com/5663984/189543978-34cf634f-ecc5-4ceb-b4b3-6f1aa4bb2c4b.png)
+![Rplot06](https://user-images.githubusercontent.com/5663984/189981661-241aaf95-53c2-42e7-a23d-ed2d3aa4c651.png)
+
 
 ### Prepare data
 #### Need to balance the dataset (undersampling):
