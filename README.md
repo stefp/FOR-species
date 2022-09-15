@@ -44,7 +44,7 @@ By species
 By genus
 ![Rplot06](https://user-images.githubusercontent.com/5663984/189981661-241aaf95-53c2-42e7-a23d-ed2d3aa4c651.png)
 
-Tree height distribution by tree species
+Tree height (m) distribution by tree species
 ![Rplot](https://user-images.githubusercontent.com/5663984/190330754-5b0f2f79-d7f8-4731-8a62-5dcffd669f48.png)
 
 
