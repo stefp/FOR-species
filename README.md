@@ -12,7 +12,7 @@ Overall we should develop:
  - a model specific to ecological-climatocgical conditions (e.g. boreal, temperate)
  - a model specific to the platform (TLS and ULS)
 
-# Available data sources (for now 18K trees)
+# Available data sources (for now 21K trees)
 The following google sheet describes the ava8lable datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
@@ -39,15 +39,13 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 For now this is the number of trees by tree species&genus and data type in the available datasets:
 
 By species
-![Rplot05](https://user-images.githubusercontent.com/5663984/189981632-ae5a049b-db96-4fb9-8786-eaa8d8ea277d.png)
-
+![Rplot08](https://user-images.githubusercontent.com/5663984/190494381-5cad989c-fa4b-4cb5-9d7b-b4e95f201b1c.png)
 
 By genus
-![Rplot06](https://user-images.githubusercontent.com/5663984/189981661-241aaf95-53c2-42e7-a23d-ed2d3aa4c651.png)
+![Rplot09](https://user-images.githubusercontent.com/5663984/190494397-8315fee8-7a51-498e-a764-5aed9dc91d2b.png)
 
 Tree height (m) distribution by tree species
-![Rplot](https://user-images.githubusercontent.com/5663984/190330754-5b0f2f79-d7f8-4731-8a62-5dcffd669f48.png)
-
+![Rplot10](https://user-images.githubusercontent.com/5663984/190494422-ee28187a-1955-4c94-91e3-6f4f26375aa2.png)
 
 ### Prepare data
 #### Need to balance the dataset (undersampling):
@@ -63,11 +61,11 @@ Tree height (m) distribution by tree species
 ![Rplot04](https://user-images.githubusercontent.com/5663984/189549827-a209d21b-bdbe-40cb-a3c9-0495fae7c8d8.png)
 
 
-
 ### Models to test
+- Matt Allen: https://github.com/mataln/TLSpecies
 - TensorFlow Hub - resnet50 (https://github.com/stefp/treeSpecies_classify_LS/blob/main/scripts/Tree_SP_transfer_learning_with_hub.ipynb)
 - yolov5 v 6.2 classification (https://github.com/ultralytics/yolov5/releases)
-
+- 
 
 ### Train separate models for different biogeographical regions
 - Boreal: Picea abies, Pinus sylvestris, Betula pendula 
