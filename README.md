@@ -29,6 +29,7 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Julian Frey |  [link data](S:\Prosjekter\52106_SFI_SmartForest\annotated_datasets\speciesClassification_proximalLS\Frey_2022) | no paper | ✔️ |  ✔️ | 745 | 6 | TLS | ... | poor |
 | Bluecat | [link stems](https://zenodo.org/record/4624277#.YrYt3HZByUk)  | [link paper](https://www.mdpi.com/2072-4292/13/12/2297) | ✔️ | ✔️ | 10000 | ? | TLS | ... | top |
 | luck_levick |  | | ✔️ | ✔️ | 447 | 11 | TLS | Leica BLK360 | top |
+| allen_owen_lines |  | | ✔️ | ✔️ | 2486 | 5 | TLS | Leica HDS6200 | top |
 | Brede_2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | ❌ | ❌ | ? | need to ask | ULS/TLS | ... |
 | Cedric Vega | no data link | no paper | ❌ | ❌ | ? | ? | TLS | ... |
 | Martin Mokros | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
@@ -76,6 +77,7 @@ Tree height (m) distribution by tree species
  
 
 ### Useful litterature
+- Allen github repo: https://github.com/mataln/TLSpecies
 - https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full
 - https://www.mdpi.com/2072-4292/14/15/3809
 - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10332/103320O/Lidar-based-individual-tree-species-classification-using-convolutional-neural-network/10.1117/12.2270123.short?SSO=1
