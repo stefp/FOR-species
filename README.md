@@ -80,7 +80,7 @@ Tree height (m) distribution by tree species
 - https://www.mdpi.com/2072-4292/14/15/3809
 - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10332/103320O/Lidar-based-individual-tree-species-classification-using-convolutional-neural-network/10.1117/12.2270123.short?SSO=1
 - https://www.mdpi.com/2072-4292/13/23/4750
-- 
+- https://www.sciencedirect.com/science/article/pii/S0924271620302094?via%3Dihub
 
 ### Example model for species is boreal
 ![cm](https://user-images.githubusercontent.com/5663984/176134068-2a72bc88-40b2-46ae-b0e2-ae074840f0a8.png)
