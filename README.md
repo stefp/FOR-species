@@ -12,7 +12,7 @@ Overall we should develop:
  - a model specific to ecological-climatocgical conditions (e.g. boreal, temperate)
  - a model specific to the platform (TLS and ULS)
 
-# Available data sources (for now 21K trees)
+# Available data sources (for now 24K trees)
 The following google sheet describes the ava8lable datasets:
 https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
 
