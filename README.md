@@ -30,11 +30,11 @@ https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN
 | Bluecat | [link stems](https://zenodo.org/record/4624277#.YrYt3HZByUk)  | [link paper](https://www.mdpi.com/2072-4292/13/12/2297) | ✔️ | ✔️ | 10000 | ? | TLS | ... | top |
 | luck_levick |  | | ✔️ | ✔️ | 447 | 11 | TLS | Leica BLK360 | top |
 | allen_owen_lines |  | | ✔️ | ✔️ | 2486 | 5 | TLS | Leica HDS6200 | top |
+| xi_hopkinson | ❌ | ❌ | ? | ? | TLS | ... |
 | Brede_2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | ❌ | ❌ | ? | need to ask | ULS/TLS | ... |
 | Cedric Vega | no data link | no paper | ❌ | ❌ | ? | ? | TLS | ... |
 | Martin Mokros | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
 | Kim Calders | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
-| Harry Owen | no data link | no paper | ❌ |  ❌ | ? | ? | TLS | ... |
 
 For now this is the number of trees by tree species&genus and data type in the available datasets:
 
