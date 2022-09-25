@@ -47,6 +47,10 @@ By genus
 Tree height (m) distribution by tree species
 ![Rplot10](https://user-images.githubusercontent.com/5663984/190494422-ee28187a-1955-4c94-91e3-6f4f26375aa2.png)
 
+Geographical overview:
+![map_temp](https://user-images.githubusercontent.com/5663984/192165940-31600278-932c-4580-84aa-78ebe12ec16f.PNG)
+
+
 ### Prepare data
 #### Need to balance the dataset (undersampling):
 - The objective is to reduce the representativeness of the classes with most trees while still ensuring a large-enough sample of trees for modelling. To do so we should select a number of trees to sample from each tree species e.g. 100 trees)
