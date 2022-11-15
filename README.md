@@ -15,8 +15,6 @@ Overall, in this acitivity we should:
  - Benchmark several methods (data science competition)
  - Publish the best models, code, the data, and of course a nice paper :)
 
-[image](https://user-images.githubusercontent.com/5663984/201873118-474a0798-a1f2-4de1-bc82-9063d6dcd592.png)
-
 # Available data sources (for now 24K trees)
 ## Datasets
 In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9MAO9V_PJsr9OxU-kN3pY4TSlWHY/edit?usp=sharing)  sheet you can find some metadata regarding the available datasets. 
