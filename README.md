@@ -11,35 +11,33 @@ Repository for the work related to the tree species classification using proxima
 In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find an initial idea of the study case.
 
 Overall, in this acitivity we should:
- - Provide a benchmark dataset for developing new point cloud classification models and evaluating existing methods.
+ - Provide a **benchmark dataset** for **developing** new point cloud classification models and **evaluating** existing methods.
  - Benchmark several methods (data science competition)
- - Publish the best models, code, and the data!
+ - Publish the best models, code, the data, and of course a nice paper :)
 
 [image](https://user-images.githubusercontent.com/5663984/201873118-474a0798-a1f2-4de1-bc82-9063d6dcd592.png)
 
 # Available data sources (for now 24K trees)
-The following google sheet describes the ava8lable datasets:
-https://docs.google.com/spreadsheets/d/1-HPtnaIR7NCAsvfiKfIwKoXwYKKy_oqfgBvkJBkN-HU/edit#gid=0
+## Datasets
+In this [google doc](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9MAO9V_PJsr9OxU-kN3pY4TSlWHY/edit?usp=sharing)  sheet you can find some metadata regarding the available datasets. 
 
-
-| Dataset name  | Data URL | Paper URL | Downloaded | Prepared | n trees | n species | Data type | Sensor | Quality annotation |
+| dataset_name  | n_trees | n_species | data_type | Sensor | acquisition | annotation_quality | forest_type | x | y |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| NIBIO Geoslam  | [link data](...) | [link paper](...) | ✔️ | ✔️ | 833 | 3 | MLS | Geoslam Horizon | top |
-| ForInstance  | [link data](https://nibio-my.sharepoint.com/:f:/g/personal/stefano_puliti_nibio_no/EuBtG3q5teVAnPuaC7bB56YBkV5M5VWK4OhOzuWBd3I2oA?e=4Ebkwx) | [link paper](https://www.mdpi.com/2072-4292/7/8/9632) | ✔️ | ✔️ | 885 | 5 | ULS | VUX/miniVUX series | top |
-| Seidl_2021  | [link data](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/FOHUJM) |[link paper](https://www.frontiersin.org/articles/10.3389/fpls.2021.635440/full) | ✔️ | ✔️ | 690 | 8 | TLS |  Faro Focus 3D 120 and Zoller and Fröhlich Imager 5006 | top |
-| Weiser_2021 | [link data](https://pytreedb.geog.uni-heidelberg.de) | [link paper](https://essd.copernicus.org/preprints/essd-2022-39/) | ✔️ | ✔️ | 1491 | 22 | ALS/ULS(leaf-on and off)/TLS | miniVUX1 ... | medium |
-| VanDenBerge_2021 | [link data](https://github.com/ekalinicheva/multi_layer_vegetation)  | [link paper](https://link.springer.com/article/10.1007/s12155-021-10250-y) | ✔️ | ✔️ | 69 | 3 | TLS | RIEGL VZ-1000 | top |
-| LAUTx | [link data](https://zenodo.org/record/6560112#.YrNjx3ZBxaQ)  | [link paper](https://zenodo.org/record/6560112/files/APPENDIX_TABLES.pdf?download=1) | ✔️ | ✔️ | 515 | ? | MLS | ZEB Horizon | top |
-| Saarinen_2021 | [link stems](https://zenodo.org/record/3701271#.YrQL8mBBxaS) [link crowns](https://zenodo.org/record/5783404#.YrQL_GBBxaS)  | [link paper](https://zenodo.org/record/5783404/files/Saarinen%20et%20al_Data%20descriptor.pdf?download=1) | ✔️ | ✔️ | 1976 | 1 | TLS | Trimble TX5 3D | poor |
-| Julian Frey |  [link data](S:\Prosjekter\52106_SFI_SmartForest\annotated_datasets\speciesClassification_proximalLS\Frey_2022) | no paper | ✔️ |  ✔️ | 745 | 6 | TLS | ... | poor |
-| Bluecat | [link stems](https://zenodo.org/record/4624277#.YrYt3HZByUk)  | [link paper](https://www.mdpi.com/2072-4292/13/12/2297) | ✔️ | ✔️ | 10000 | ? | TLS | ... | top |
-| luck_levick |  | | ✔️ | ✔️ | 447 | 11 | TLS | Leica BLK360 | top |
-| allen_owen_lines |  |  | ✔️ | ✔️ | 2486 | 5 | TLS | Leica HDS6200 | top |
-| xi_hopkinson |  |  | ✔️ | ✔️ | 1061 | 5 | TLS | Optech Ilris HD | top |
-| Brede_2017 | [link data](https://data.4tu.nl/articles/dataset/Speulderbos_Terrestrial_TLS_and_Unmanned_Aerial_Vehicle_Laser_Scanning_UAV-LS_2017/13061306) | [link paper](https://research.wur.nl/en/datasets/speulderbos-terrestrial-tls-and-unmanned-aerial-vehicle-laser-sca) | ❌ | ❌ | ? | need to ask | ULS/TLS | ... |
-| Cedric Vega | no data link | no paper | ❌ | ❌ | ? | ? | TLS | ... |
-| Martin Mokros | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
-| Kim Calders | no data link | no paper | ❌ | ❌ | ? | ? | ? | ... |
+| wieser_TLS  | 264 | 12 | TLS | RIEGL VZ-400 | 15 scans per ha | manual | temperate | 14.7073 | 48.6638 |
+| ...  | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+## Trees 
+filename	species	genus	dataset	data_type	tree_H
+
+| filename  | species | genus | dataset_name | data_type | tree_H |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| SOR_366.txt  | Picea_abies | Picea | TLS | wieser_TLS | TLS | 15.5 | 
+| ...  | ... | ... | ... | ... | ... | ... | 
+
+
+![image](https://user-images.githubusercontent.com/5663984/201881552-a2a72c3f-a073-4d53-9c2f-ad994c7bae19.png)
+
+
 
 For now this is the number of trees by tree species&genus and data type in the available datasets:
 
