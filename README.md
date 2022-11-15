@@ -46,20 +46,14 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 
 # Data science competition (Nov 2022 - Apr 2023)
 The data will be organized as follows:
-.
-├── ...
-├── data                    
-│   ├── point_clouds
-│   ├── Labels
-└── ...
 
-.
-├── ...
-├── test                    # Test files (alternatively `spec` or `tests`)
-│   ├── benchmarks          # Load and stress tests
-│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-│   └── unit                # Unit tests
-└── ...
+- data                    
+      - point_clouds
+                    - tree_1.las 
+                    - tree_2.las
+                    - ...
+      - labels
+                    - tree_metadata_treeSP_proximalLS.csv 
 
 # output
 - jupyter notebook for model training and inference
