@@ -55,6 +55,7 @@ The data will be organized as follows:
 │       ├── ...
 │   ├── Labels
 │       ├── tree_metadata_treeSP_proximalLS.csv
+└── ...
 
 # output
 - jupyter notebook for model training and inference
