@@ -46,7 +46,7 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 
 # Data science competition (Nov 2022 - Apr 2023)
 The data will be organized as follows:
-
+.
 ├── ...
 ├── data                    
 │   ├── point_clouds
