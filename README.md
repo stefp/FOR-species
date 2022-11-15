@@ -50,11 +50,15 @@ The data will be organized as follows:
 ├── ...
 ├── data                    
 │   ├── point_clouds
-│       ├── tree_1.las
-│       ├── tree_2.las
-│       ├── ...
 │   ├── Labels
-│       ├── tree_metadata_treeSP_proximalLS.csv
+└── ...
+
+.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
 └── ...
 
 # output
