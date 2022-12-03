@@ -34,7 +34,7 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 | SOR_366.txt  | Picea_abies | Picea | TLS | wieser_TLS | TLS | 15.5 | 
 | ...  | ... | ... | ... | ... | ... | ... | 
 
-### Tree distribution by tree species (tree species with more than 50 trees)
+### Tree distribution by tree species (33 tree species with more than 50 trees)
 ![species](https://user-images.githubusercontent.com/5663984/205465716-c48ad95e-c2a8-4c1b-896c-24a3e26d8e11.png)
 
 ### Tree distribution by genus
