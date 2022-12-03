@@ -35,10 +35,10 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 | ...  | ... | ... | ... | ... | ... | ... | 
 
 ### Tree distribution by tree species (tree species with more than 50 trees)
-![species](https://user-images.githubusercontent.com/5663984/205465247-34b0af4b-bb9b-4ae6-b50e-22a9f8a067e0.png)
+![species](https://user-images.githubusercontent.com/5663984/205465716-c48ad95e-c2a8-4c1b-896c-24a3e26d8e11.png)
 
 ### Tree distribution by genus
-![genus](https://user-images.githubusercontent.com/5663984/205465254-37c586cb-3b47-4ae8-a8db-0f6e4654f01a.png)
+![genus](https://user-images.githubusercontent.com/5663984/205465719-7c8d4ac8-3bdb-496d-86c2-20569afec2da.png)
 
 ### Tree height (m) distribution by tree species
 ![species_size](https://user-images.githubusercontent.com/5663984/205465259-46b041d9-dfb1-4e59-908d-677af8457189.png)
