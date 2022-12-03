@@ -34,14 +34,14 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 | SOR_366.txt  | Picea_abies | Picea | TLS | wieser_TLS | TLS | 15.5 | 
 | ...  | ... | ... | ... | ... | ... | ... | 
 
-### Tree distribution by tree species
-![species](https://user-images.githubusercontent.com/5663984/205462181-45cc927b-b5ad-484b-a7bd-90f8356c8189.png)
+### Tree distribution by tree species (tree species with more than 50 trees)
+![species](https://user-images.githubusercontent.com/5663984/205465247-34b0af4b-bb9b-4ae6-b50e-22a9f8a067e0.png)
 
 ### Tree distribution by genus
-![genus](https://user-images.githubusercontent.com/5663984/205462185-016db04c-1ab0-4162-be51-87c2034c64e9.png)
+![genus](https://user-images.githubusercontent.com/5663984/205465254-37c586cb-3b47-4ae8-a8db-0f6e4654f01a.png)
 
 ### Tree height (m) distribution by tree species
-![species_size](https://user-images.githubusercontent.com/5663984/205462191-c2646174-736d-4261-9953-3011c3469f75.png)
+![species_size](https://user-images.githubusercontent.com/5663984/205465259-46b041d9-dfb1-4e59-908d-677af8457189.png)
 
 # Data science competition (Nov 2022 - Apr 2023)
 The data will be organized as follows:
