@@ -35,14 +35,13 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 | ...  | ... | ... | ... | ... | ... | ... | 
 
 ### Tree distribution by tree species
-![species_feq](https://user-images.githubusercontent.com/5663984/203247362-b3257a93-d684-43a6-b7f0-082d5da1aaad.png)
+![species](https://user-images.githubusercontent.com/5663984/205462181-45cc927b-b5ad-484b-a7bd-90f8356c8189.png)
 
 ### Tree distribution by genus
-![genus_freq](https://user-images.githubusercontent.com/5663984/203247391-ca7eda2a-0e49-4b55-96c4-0ad97e55840f.png)
+![genus](https://user-images.githubusercontent.com/5663984/205462185-016db04c-1ab0-4162-be51-87c2034c64e9.png)
 
 ### Tree height (m) distribution by tree species
-![species_size](https://user-images.githubusercontent.com/5663984/203247417-a7ed5c83-46a0-4199-a177-45dccb3787ea.png)
-
+![species_size](https://user-images.githubusercontent.com/5663984/205462191-c2646174-736d-4261-9953-3011c3469f75.png)
 
 # Data science competition (Nov 2022 - Apr 2023)
 The data will be organized as follows:
