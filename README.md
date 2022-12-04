@@ -4,8 +4,6 @@
 # Sensor-agnostic tree species classification using proximal laser scanning (TLS, MLS, ULS) and CNNs
 Repository for the work related to the tree species classification using proximally sensed laser scanning data (TLS, MLS, ULS). This work is part of the COST action 3DForEcoTech [3DForEcoTech](https://3dforecotech.eu/) and co-funded by SmartForest [SmartForest](https://smartforest.no/)
 
-![spruce_pine_birch](https://user-images.githubusercontent.com/5663984/192355795-8495b87c-a31f-46b1-99fb-58e790845f70.png)
-
 ![beech_spruce_pine](https://user-images.githubusercontent.com/5663984/205514849-14d77df2-0441-4caa-b230-6fdbdaad4ddc.png)
 
 # What is the study case about
