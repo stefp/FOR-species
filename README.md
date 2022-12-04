@@ -25,7 +25,8 @@ In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9M
 | wieser_TLS  | 264 | 12 | TLS | RIEGL VZ-400 | 15 scans per ha | manual | temperate | 14.7073 | 48.6638 |
 | ...  | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
-![map_temp](https://user-images.githubusercontent.com/5663984/192165940-31600278-932c-4580-84aa-78ebe12ec16f.PNG)
+![Capture](https://user-images.githubusercontent.com/5663984/205518571-e7d85b0d-79ae-4dae-98da-99a1c4d7ff79.PNG)
+
 
 ## Trees 
 Tree metadata can be found in this [google sheet](https://docs.google.com/spreadsheets/d/1zOk9QKjz9j-8_QKqzl1kNqKImPl9e9snVPHjyCu3AE8/edit?usp=sharing) containing the following information
