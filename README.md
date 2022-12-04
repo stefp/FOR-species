@@ -6,6 +6,7 @@ Repository for the work related to the tree species classification using proxima
 
 ![spruce_pine_birch](https://user-images.githubusercontent.com/5663984/192355795-8495b87c-a31f-46b1-99fb-58e790845f70.png)
 
+![beech_spruce_pine](https://user-images.githubusercontent.com/5663984/205514849-14d77df2-0441-4caa-b230-6fdbdaad4ddc.png)
 
 # What is the study case about
 In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find an initial idea of the study case.
@@ -35,13 +36,13 @@ Tree metadata can be found in this [google sheet](https://docs.google.com/spread
 | ...  | ... | ... | ... | ... | ... | ... | 
 
 ### Tree distribution by tree species (33 tree species with more than 50 trees)
-![species](https://user-images.githubusercontent.com/5663984/205465716-c48ad95e-c2a8-4c1b-896c-24a3e26d8e11.png)
+![species](https://user-images.githubusercontent.com/5663984/205514818-7af03617-e358-44e0-9f40-4c555d6bf3c5.png)
 
 ### Tree distribution by genus
-![genus](https://user-images.githubusercontent.com/5663984/205465719-7c8d4ac8-3bdb-496d-86c2-20569afec2da.png)
+![genus](https://user-images.githubusercontent.com/5663984/205514824-9c84acfb-e907-4bc7-8b10-ccff19bad82a.png)
 
 ### Tree height (m) distribution by tree species
-![species_size](https://user-images.githubusercontent.com/5663984/205465259-46b041d9-dfb1-4e59-908d-677af8457189.png)
+![species_size](https://user-images.githubusercontent.com/5663984/205514870-8d1ca47f-9fdc-4a70-8a4f-cf197653a58c.png)
 
 # Data science competition (Nov 2022 - Apr 2023)
 The data will be organized as follows:
