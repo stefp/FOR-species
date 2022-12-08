@@ -27,7 +27,7 @@ In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9M
 
 
 ## Trees 
-Tree metadata can be found in this [google sheet](https://docs.google.com/spreadsheets/d/1zOk9QKjz9j-8_QKqzl1kNqKImPl9e9snVPHjyCu3AE8/edit?usp=sharing) containing the following information
+Tree metadata can be found in this [google sheet]() containing the following information
 
 | filename  | species | genus | dataset_name | data_type | tree_H |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
