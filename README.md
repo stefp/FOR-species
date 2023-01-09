@@ -34,6 +34,8 @@ Tree metadata can be found in the tree_metadata_training_publish.csv. Each row r
 | 1  | Picea_abies | Picea | wieser_TLS | TLS | 15.5 | /train/00070.las |
 | ...  | ... | ... | ... | ... | ... | ... | ... | 
 
+the "tree_H" variable is simply the difference between the top and bottom z value for each tree and should be used only to get a rough understanding of tree size, however keep in mind that this does NOT necessarily correspond to the real tree height.
+
 ### Tree distribution by tree species (33 tree species with more than 50 trees)
 ![species](https://user-images.githubusercontent.com/5663984/205514818-7af03617-e358-44e0-9f40-4c555d6bf3c5.png)
 
@@ -44,30 +46,16 @@ Tree metadata can be found in the tree_metadata_training_publish.csv. Each row r
 ![species_size](https://user-images.githubusercontent.com/5663984/205514870-8d1ca47f-9fdc-4a70-8a4f-cf197653a58c.png)
 
 # Data science competition (Nov 2022 - Apr 2023)
-The data will be organized as follows:
-- point_clouds
--------------- tree_1.las 
--------------- tree_2.las 
+The data science competition will run from Jan 2023 to Apr/May 2023. Each contributor will be able to make a maximum of 3 submissions.
 
-- labels
--------- tree_metadata_treeSP_proximalLS.csv 
-
-# output
-- jupyter notebook for model training and inference
-- .csv file with prediction for the test set with the following columns
-
-| filename  | species | 
+To make a submission should send me (stefano.puliti@nibio.no) a csv file with predictions on the test dataset and with the following two columns:
+| treeID  | predicted_species | 
 | ------------- | ------------- | 
-| SOR_366.txt  | Picea_abies |  
+| 523  | Pinus_sylvestris |  
 | ...  | ... |
 
-# evaluation
+This will allow to generate a consistent and independent leaderboard. Also for a submission to be valid one should provide the code (github repo).
+ 
+# evaluation (to do)
 - Overall accuracy, precision, recall, F1-score
 - number of species classified with accuracy > .5
- 
-
-# Global Vs regional models
-- Boreal: Picea abies, Pinus sylvestris, Betula pendula 
-- Boreal+: Picea abies, Pinus sylvestris, Betula pendula, Fagus sylvatica, Quercus sp., Acer sp., Tilia sp., Fraxinus exclesior
-- Temperate: Picea abies, Pinus sylvestris, Betula pendula, Fagus sylvatica, Quercus sp., Acer sp., Carpinus betulus, Pseudotsuga mentziesii, Tilia cordata, Ulmus, Prunus, Crategous, Larix)
-- Australia: Eucaliptus sp.
