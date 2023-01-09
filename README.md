@@ -27,12 +27,12 @@ In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9M
 
 
 ## Trees 
-Tree metadata can be found in this [google sheet]() containing the following information
+Tree metadata can be found in the tree_metadata_training_publish.csv. Each row represents a single tree with the following fields:
 
-| filename  | species | genus | dataset_name | data_type | tree_H |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| tree_1.las  | Picea_abies | Picea | wieser_TLS | TLS | 15.5 | 
-| ...  | ... | ... | ... | ... | ... | ... | 
+| treeID  | species | genus | dataset | data_type | tree_H | filename |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 1  | Picea_abies | Picea | wieser_TLS | TLS | 15.5 | /train/00070.las |
+| ...  | ... | ... | ... | ... | ... | ... | ... | 
 
 ### Tree distribution by tree species (33 tree species with more than 50 trees)
 ![species](https://user-images.githubusercontent.com/5663984/205514818-7af03617-e358-44e0-9f40-4c555d6bf3c5.png)
