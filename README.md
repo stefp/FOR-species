@@ -63,3 +63,9 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 # Confusion matrix of top performing method
 
+![confusion_matrix](https://user-images.githubusercontent.com/5663984/218245618-e3300486-f3fa-4ab0-81c6-3ab306dda418.png)
+
+
+
+
+
