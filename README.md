@@ -56,10 +56,10 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 # Leader board
 
-| ranking | Team  | Overall accuracy | Precision | Recall | F1-score |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Uni_Cambridge  | 0.67 | 0.68 | 0.67 | 0.66 |
-| ... | ...  | ... | ... | ... | ... |
+| ranking | Team  | Overall accuracy | Precision | Recall | F1-score | method |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | Uni_Cambridge  | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
+| ... | ...  | ... | ... | ... | ... | ... |
 
 # Confusion matrix of top performing method
 
