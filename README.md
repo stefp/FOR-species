@@ -54,8 +54,12 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 | 523  | Pinus_sylvestris |  
 | ...  | ... |
 
-This will allow to generate a consistent and independent leaderboard. Also for a submission to be valid one should provide the code (github repo).
- 
-# evaluation (to do)
-- Overall accuracy, precision, recall, F1-score
-- number of species classified with accuracy > .5
+# Leader board
+
+| ranking | Team  | Overall accuracy | Precision | Recall | F1-score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | Uni_Cambridge  | 0.67 | 0.68 | 0.67 | 0.66 |
+| ... | ...  | ... | ... | ... | ... |
+
+# Confusion matrix of top performing method
+
