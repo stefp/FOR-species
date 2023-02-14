@@ -54,7 +54,7 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 | 523  | Pinus_sylvestris |  
 | ...  | ... |
 
-# Leader board
+# 🏎️ Leader board 🏁
 
 | ranking | Team  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
