@@ -45,7 +45,7 @@ the "tree_H" variable is simply the difference between the top and bottom z valu
 ### Tree height (m) distribution by tree species
 ![species_size](https://user-images.githubusercontent.com/5663984/205514870-8d1ca47f-9fdc-4a70-8a4f-cf197653a58c.png)
 
-# Data science competition (Nov 2022 - Apr 2023) 🏎️ 
+# Data science competition (Nov 2022 - May 2023) 🏎️ 
 The data science competition will run from Jan 2023 to Apr/May 2023. Each contributor will be able to make a maximum of 3 submissions.
 
 To make a submission should send me (stefano.puliti@nibio.no) a csv file with predictions on the test dataset and with the following two columns:
