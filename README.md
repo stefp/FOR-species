@@ -1,7 +1,7 @@
 
 ![3DForEcoTech-logo-description](https://user-images.githubusercontent.com/5663984/174446150-32e31872-2003-4af9-95d4-a1abfca0b744.png)
 
-# Sensor-agnostic tree species classification using proximal laser scanning (TLS, MLS, ULS) and CNNs
+# Sensor-agnostic tree species classification using proximal laser scanning (TLS, MLS, ULS) and CNNs 🌳🌲💥🤖
 Repository for the work related to the tree species classification using proximally sensed laser scanning data (TLS, MLS, ULS). This work is part of the COST action 3DForEcoTech [3DForEcoTech](https://3dforecotech.eu/) and co-funded by [SmartForest](https://smartforest.no/)
 
 ![beech_spruce_pine](https://user-images.githubusercontent.com/5663984/205514849-14d77df2-0441-4caa-b230-6fdbdaad4ddc.png)
@@ -14,7 +14,7 @@ Overall, in this acitivity we should:
  - Benchmark several methods (data science competition)
  - Publish the best models, code, the data, and of course a nice paper :)
 
-# Available data sources (approx. 20K trees)
+# Available data sources (approx. 20K trees 🤯)
 ## Datasets
 In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9MAO9V_PJsr9OxU-kN3pY4TSlWHY/edit?usp=sharing)  sheet you can find some metadata regarding the available datasets. 
 
@@ -45,7 +45,7 @@ the "tree_H" variable is simply the difference between the top and bottom z valu
 ### Tree height (m) distribution by tree species
 ![species_size](https://user-images.githubusercontent.com/5663984/205514870-8d1ca47f-9fdc-4a70-8a4f-cf197653a58c.png)
 
-# Data science competition (Nov 2022 - Apr 2023)
+# Data science competition (Nov 2022 - Apr 2023) 🏎️ 
 The data science competition will run from Jan 2023 to Apr/May 2023. Each contributor will be able to make a maximum of 3 submissions.
 
 To make a submission should send me (stefano.puliti@nibio.no) a csv file with predictions on the test dataset and with the following two columns:
@@ -54,14 +54,14 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 | 523  | Pinus_sylvestris |  
 | ...  | ... |
 
-# 🏎️ Leader board 🏁
+# Leader board 🏁
 
 | ranking | Team  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Uni_Cambridge  | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
 | ... | ...  | ... | ... | ... | ... | ... |
 
-# Confusion matrix of top performing method
+# Confusion matrix of top performing method 📈
 
 ![confusion_matrix (1)](https://user-images.githubusercontent.com/5663984/218245785-db0f7d44-9cb9-4703-8682-bdeea53c447d.png)
 
