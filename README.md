@@ -58,8 +58,8 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 | ranking | Team  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Uni_Cambridge  | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
-| ... | ...  | ... | ... | ... | ... | ... |
+| 1 | UBC  | 0.68 | 0.67 | 0.68 | 0.67 | [github repo](https://github.com/Brent-Murray/TR3D_PointAugDGCNN) |
+| 2 | Uni_Cambridge | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
 
 # Confusion matrix of top performing method 📈
 
