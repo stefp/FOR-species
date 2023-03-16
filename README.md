@@ -58,7 +58,7 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 | ranking | Author | Institution  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Lukas Winiwater | UBC/TU Wien | 0.7 | 0.71 | 0.7 | 0.7 | [github repo](https://github.com/lwiniwar/Tr3D_species_lwiniwar) |
+| 1 | Lukas Winiwarter | UBC/TU Wien | 0.7 | 0.71 | 0.7 | 0.7 | [github repo](https://github.com/lwiniwar/Tr3D_species_lwiniwar) |
 | 2 | Brent Murray | UBC | 0.68 | 0.67 | 0.68 | 0.67 | [github repo](https://github.com/Brent-Murray/TR3D_PointAugDGCNN) |
 | 3 | Matt Allen | University of Cambridge | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
 
