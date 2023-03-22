@@ -58,13 +58,16 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 | ranking | Author | Institution  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Lukas Winiwarter | UBC/TU Wien | 0.7 | 0.71 | 0.7 | 0.7 | [github repo](https://github.com/lwiniwar/Tr3D_species_lwiniwar) |
-| 2 | Brent Murray | UBC | 0.68 | 0.67 | 0.68 | 0.67 | [github repo](https://github.com/Brent-Murray/TR3D_PointAugDGCNN) |
-| 3 | Matt Allen | University of Cambridge | 0.67 | 0.68 | 0.67 | 0.66 | [github repo](https://github.com/mataln/TLSpecies) |
+| 1 | Adrian Straker | University of Goettingen | 0.78 | 0.81 | 0.78 | 0.78 | [github repo](https://github.com/AWF-GAUG/Yolov5-for-tree-species-classification-in-point-cloud-derived-images) |
+| 2 | Matts Allen | University of Cambridge | 0.76 | 0.77 | 0.76 | 0.76 | [github repo](https://github.com/mataln/TLSpecies) |
+| 3 | Lukas Winiwarter | UBC/TU Wien | 0.7 | 0.71 | 0.7 | 0.7 | [github repo](https://github.com/lwiniwar/Tr3D_species_lwiniwar) |
+| 4 | Brent Murray | UBC | 0.68 | 0.67 | 0.68 | 0.67 | [github repo](https://github.com/Brent-Murray/TR3D_PointAugDGCNN) |
+
 
 # Confusion matrix of top performing method 📈
 
-![image](https://user-images.githubusercontent.com/5663984/225445681-a809594e-2afe-4a3c-aeb8-8888dc72c0a3.png)
+![image](https://user-images.githubusercontent.com/5663984/226873239-8fe5ca4b-c1d1-4a1f-91ca-26588761061e.png)
+
 
 
 
