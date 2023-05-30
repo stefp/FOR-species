@@ -68,9 +68,7 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 # Confusion matrix of top performing method 📈
 
-![image](https://user-images.githubusercontent.com/5663984/226873239-8fe5ca4b-c1d1-4a1f-91ca-26588761061e.png)
-
-
+![Tr3D_species_submissions_UniFreib_confusion_matrix](https://github.com/stefp/Tr3D_species/assets/5663984/87f73e7e-c049-467d-82d4-eec9869ae47d)
 
 
 
