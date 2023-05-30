@@ -58,7 +58,7 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 
 | ranking | Author | Institution  | Overall accuracy | Precision | Recall | F1-score | method |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | Julian Frey/Zoe Schindler | University of Freiburg | 0.79 | 0.81 | 0.79 | 0.79 | DetailView [github repo](https://github.com/JulFrey/DetailView) |
+| 1 | Julian Frey & Zoe Schindler | University of Freiburg | 0.79 | 0.81 | 0.79 | 0.79 | DetailView [github repo](https://github.com/JulFrey/DetailView) |
 | 2 | Adrian Straker | University of Goettingen | 0.78 | 0.81 | 0.78 | 0.78 | YOLOv5 [github repo](https://github.com/AWF-GAUG/Yolov5-for-tree-species-classification-in-point-cloud-derived-images) |
 | 3 | Matt Allen | University of Cambridge | 0.76 | 0.77 | 0.76 | 0.76 | SimpleView [github repo](https://github.com/mataln/TLSpecies) |
 | 4 | Hristina Hristova & Nataliia Rehush | WSL | 0.71 | 0.72 | 0.71 | 0.7 | MLP-Mixer [github repo](https://github.com/Hrisi/tree-species-classification) |
