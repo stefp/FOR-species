@@ -62,7 +62,7 @@ To make a submission should send me (stefano.puliti@nibio.no) a csv file with pr
 | 2 | Adrian Straker | University of Goettingen | 0.78 | 0.81 | 0.78 | 0.78 | YOLOv5 [github repo](https://github.com/AWF-GAUG/Yolov5-for-tree-species-classification-in-point-cloud-derived-images) |
 | 3 | Matt Allen | University of Cambridge | 0.76 | 0.77 | 0.76 | 0.76 | SimpleView [github repo](https://github.com/mataln/TLSpecies) |
 | 4 | Lukas Winiwarter | UBC/TU Wien | 0.76 | 0.77 | 0.76 | 0.75 | PointNet++ [github repo](https://github.com/lwiniwar/Tr3D_species_lwiniwar) |
-| 5 | Nataliia Rehush | WSL | 0.74 | 0.77 | 0.74 | 0.73 | MinkNet [github repo](https://github.com/Hrisi/tree-species-classification) |
+| 5 | Nataliia Rehush | WSL | 0.74 | 0.77 | 0.74 | 0.73 | MinkNet (github repo in prep) |
 | 6 | Hristina Hristova & Nataliia Rehush | WSL | 0.71 | 0.72 | 0.71 | 0.7 | MLP-Mixer [github repo](https://github.com/Hrisi/tree-species-classification) |
 | 7 | Brent Murray | UBC | 0.68 | 0.67 | 0.68 | 0.67 | PointAugment + DGCNN  [github repo](https://github.com/Brent-Murray/TR3D_PointAugDGCNN) |
 
