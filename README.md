@@ -7,16 +7,11 @@ Repository for the work related to the tree species classification using proxima
 ![beech_spruce_pine](https://user-images.githubusercontent.com/5663984/205514849-14d77df2-0441-4caa-b230-6fdbdaad4ddc.png)
 
 # What is the study case about
-In this [google doc](https://docs.google.com/document/d/1ZbccmFbWLmyGxzJlcaE7QMqwauBFxgBb3gTPkEImuwg/edit) you can find an initial idea of the study case.
-
-Overall, in this acitivity we should:
- - Provide a **benchmark dataset** for **developing** new point cloud classification models and **evaluating** existing methods.
- - Benchmark several methods (data science competition)
- - Publish the best models, code, the data, and of course a nice paper :)
+The overall aim consists of developing a **benchmark dataset** for **developing** new point cloud tree species classification models and **benchmarking** them
 
 # Available data sources (approx. 20K trees 🤯)
 ## Datasets
-In this [google sheet](https://docs.google.com/spreadsheets/d/1qxj27Yh8B33I5eS9MAO9V_PJsr9OxU-kN3pY4TSlWHY/edit?usp=sharing)  sheet you can find some metadata regarding the available datasets. 
+Below you can find some metadata regarding the available datasets.
 
 | dataset_name  | n_trees | n_species | data_type | Sensor | acquisition | annotation_quality | forest_type | x | y |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
